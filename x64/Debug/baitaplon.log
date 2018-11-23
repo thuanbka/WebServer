@@ -1,0 +1,65 @@
+﻿  baitaplon.cpp
+g:\lập trình mạng\baitaplon\baitaplon.cpp(28): warning C4129: '%': unrecognized character escape sequence
+g:\lập trình mạng\baitaplon\baitaplon.cpp(34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+g:\lập trình mạng\baitaplon\baitaplon.cpp(37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\lập trình mạng\baitaplon\baitaplon.cpp(28): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(29): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(33): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(49): warning C4129: '%': unrecognized character escape sequence
+g:\lập trình mạng\baitaplon\baitaplon.cpp(56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+g:\lập trình mạng\baitaplon\baitaplon.cpp(59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\lập trình mạng\baitaplon\baitaplon.cpp(49): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(51): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(55): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(70): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(71): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(86): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(87): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(88): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(99): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+g:\lập trình mạng\baitaplon\baitaplon.cpp(97): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(116): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+g:\lập trình mạng\baitaplon\baitaplon.cpp(119): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+g:\lập trình mạng\baitaplon\baitaplon.cpp(109): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(111): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(115): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(168): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+g:\lập trình mạng\baitaplon\baitaplon.cpp(156): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(162): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(164): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(167): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(207): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  g:\lập trình mạng\baitaplon\baitaplon.cpp(207): note: consider using '%lld' in the format string
+  g:\lập trình mạng\baitaplon\baitaplon.cpp(207): note: consider using '%Id' in the format string
+  g:\lập trình mạng\baitaplon\baitaplon.cpp(207): note: consider using '%I64d' in the format string
+g:\lập trình mạng\baitaplon\baitaplon.cpp(208): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(226): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(266): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(267): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(268): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+g:\lập trình mạng\baitaplon\baitaplon.cpp(269): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'

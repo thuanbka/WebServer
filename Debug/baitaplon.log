@@ -1,0 +1,6 @@
+﻿  baitaplon.cpp
+g:\test\baitaplon\baitaplon.cpp(28): warning C4129: '%': unrecognized character escape sequence
+g:\test\baitaplon\baitaplon.cpp(49): warning C4129: '%': unrecognized character escape sequence
+g:\test\baitaplon\baitaplon.cpp(131): warning C4018: '<': signed/unsigned mismatch
+g:\test\baitaplon\baitaplon.cpp(148): warning C4018: '<': signed/unsigned mismatch
+  baitaplon.vcxproj -> G:\test\baitaplon\Debug\baitaplon.exe
